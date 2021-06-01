@@ -1,0 +1,33 @@
+div {
+  display: inline;
+  margin-left: 65px;
+}
+
+#shopping-list {
+  margin-left: 125px;
+  margin-top: 55px;
+  font-size: 30px;
+  margin-bottom: 65px;
+}
+
+form {
+  width: 70%;
+  margin-left: 135px;
+  margin-top: 35px;
+}
+
+button.btn.btn-success {
+  margin-top: 35px;
+}
+
+#add-item {
+  margin-top: 35px;
+  margin-left: 0px;
+  margin-bottom: 65px;
+  font-size: 30px;
+}
+
+label {
+  margin-top: 10px;
+  color: blue;
+}
